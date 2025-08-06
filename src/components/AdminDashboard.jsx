@@ -36,7 +36,7 @@ const AdminDashboard = ({ setUser }) => {
           onClick={handleLogout}
           style={{
             padding: "8px 16px",
-            background: "#dc3545",
+            background: "#dc3545",  
             color: "#fff",
             border: "none",
             borderRadius: "4px",
